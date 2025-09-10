@@ -1,4 +1,4 @@
-const fs = require('fs'); // pull in the file system module
+const fs = require('fs'); 
 const path = require('path');
 
 const loadFile = (request, response, fileDir, fileType) => {
